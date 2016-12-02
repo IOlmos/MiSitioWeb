@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+div {
+	border: solid 1px red;
+	text-align: center;
+	padding-top: 70px;
+	height: 250px;
+	background: url('IMG.jpg') no-repeat left -200px;
+	background-size: cover;
+}
+h1 {
+	color: white;
+	font-size: 2em;
+}
