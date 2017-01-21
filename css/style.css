@@ -1,0 +1,10 @@
+body {
+  color: orange;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../otherimages/testimage/IMG.jpg);
+	}
+
+.menu {
+	border: solid 1px red;
+}
